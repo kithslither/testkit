@@ -1,0 +1,47 @@
+
+html, body{
+	max-width: 1200px;
+ 	margin: auto;
+  	font-family: "MONTSERRAT", sans-serif;
+  	font-size: 18px;
+  	line-height: 2.4em;
+ }
+
+header{
+
+}
+
+.home-logo img{
+	top: 2.5%;
+    display: inline-block;
+    left: 50%;
+    width: 50px;
+    height: auto;
+    padding: 20px;
+    position: absolute;
+    white-space: nowrap;
+    z-index: 2;
+    text-decoration: none;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+.hero-content h1{
+	margin-bottom: 0rem;
+	margin-top: 15rem;
+	text-align: center;
+/*  	margin: auto;*/
+  	line-height: 2em;
+}
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.1rem;
+}
+
+ul{
+	list-style: none;
+}
+

@@ -247,7 +247,9 @@ footer{
 		line-height: 1em;
 	}
 
-	 #newsletter h1{
+	 #newsletter{
+	 	text-align: center;
+	 }
 	 	
 	 }
 
